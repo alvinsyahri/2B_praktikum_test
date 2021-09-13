@@ -1,0 +1,2 @@
+ini adalah contoh push
+menggunakan visual studio code
